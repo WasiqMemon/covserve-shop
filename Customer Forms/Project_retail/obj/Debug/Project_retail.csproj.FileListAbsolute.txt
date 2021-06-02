@@ -1,0 +1,42 @@
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\bin\Debug\Project_retail.exe.config
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\bin\Debug\Project_retail.exe
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\bin\Debug\Project_retail.pdb
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.csprojAssemblyReference.cache
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.SignIn.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Properties.Resources.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.SignUp.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.csproj.GenerateResource.cache
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.csproj.CoreCompileInputs.cache
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.exe
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.pdb
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Select_products.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.SProduct.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Cart.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Customer.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Intro.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Account.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Place_order.resources
+C:\Users\Aliza Rafique\source\repos\Project_retail\Project_retail\obj\Debug\Project_retail.Form1.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\Project_retail.exe.config
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\Project_retail.exe
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\Project_retail.pdb
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Account.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Cart.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Customer.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Intro.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Place_order.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Select_products.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.SignIn.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Properties.Resources.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.SignUp.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.SProduct.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.Form1.resources
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.exe
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.pdb
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\ProjectForms.exe
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\ProjectForms.pdb
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\bin\Debug\ProjectForms.exe.config
+C:\Users\DELL\Documents\HU\Fall Semester 2020\Database Systems\Project\Project_retail\Project_retail\obj\Debug\Project_retail.csproj.CopyComplete
