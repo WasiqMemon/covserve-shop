@@ -1,11 +1,11 @@
 # CS 355 Database Systems, Fall 2020
 # Final Project: Covserve Shop
-# Group Members:
-- _Aliza Rafique_
-- _Wasiq Hussain_
--------
 
 The final project for this course required the implementation of a database in an application.
+
+## Group Members:
+- _Aliza Rafique_
+- _Wasiq Hussain_
 
 ## Youtube Demo Link
 
