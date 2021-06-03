@@ -3,7 +3,7 @@
 
 The final project for this course required the implementation of a database in an application.
 
-## Group Members:
+## Group Members
 - _Aliza Rafique_
 - _Wasiq Hussain_
 
